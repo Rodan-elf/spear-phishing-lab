@@ -17,6 +17,7 @@
 7. [Follow-Up Actions Post-Compromise](#follow-up-actions-post-compromise)
 8. [Defensive Countermeasures](#defensive-countermeasures)
 9. [Reflections](#reflections)
+10. [Mind Map](#mind-map)
 
 ---
 
@@ -306,6 +307,9 @@ The parts I'd want to develop further:
 
 ---
 
-*All scenarios, companies, and individuals are fictional. No real infrastructure was created or used.*
+## Mind Map
 
 ![Reflections mind map](mindmap-byGemini.png)
+
+---
+*All scenarios, companies, and individuals are fictional. No real infrastructure was created or used.*
